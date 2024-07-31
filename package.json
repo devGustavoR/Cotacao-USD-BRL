@@ -1,0 +1,17 @@
+{
+  "name": "conversaodemoeda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch --no-warnings index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "axios": "^1.7.2",
+    "conversaodemoeda": "file:",
+    "fastify": "^4.28.1"
+  }
+}

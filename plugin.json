@@ -1,0 +1,11 @@
+{
+  "ID": "com.yourname.cotacao",
+  "ActionKeyword": "ct",
+  "Name": "Cotação USD-BRL",
+  "Description": "Calcula a cotação do USD em BRL multiplicado por um valor",
+  "Author": "devGustavoR",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "ExecuteFileName": "index.js",
+  "IcoPath": "Images\\app.png"
+}
