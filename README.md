@@ -1,0 +1,1 @@
+# COTACAO USD-BRL
